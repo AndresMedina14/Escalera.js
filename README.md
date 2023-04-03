@@ -1,0 +1,2 @@
+# Escalera.js
+nose
